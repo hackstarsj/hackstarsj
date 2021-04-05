@@ -48,10 +48,20 @@
 <br><br>
 <br><br>
 <p></p>
-##
+## Profile
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackstarsj&show_icons=true&locale=en&layout=compact" alt="hackstarsj" style="display: contents;max-width: 100%;" /></p>
 
+
+<br><br>
+<p></p>
+## Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackstarsj&show_icons=true&locale=en" alt="hackstarsj" /></p>
+
+
+<br><br>
+<p></p>
+## Contribution
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackstarsj&" alt="hackstarsj" /></p>
