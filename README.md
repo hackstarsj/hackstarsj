@@ -45,6 +45,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/supercoders"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="supercoders" /></a></p><br><br>
+<br><br>
+<br><br>
+<p></p>
+##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackstarsj&show_icons=true&locale=en&layout=compact" alt="hackstarsj" style="display: contents;max-width: 100%;" /></p>
 
