@@ -55,10 +55,7 @@
 
 <br><br>
 <p></p>
-<br><br>
-<br><br>
 <p></p>
-<br><br>
 <br><br>
 <p></p>
 ## Stats
@@ -66,12 +63,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackstarsj&show_icons=true&locale=en" alt="hackstarsj" /></p>
 
 
-<br><br>
-<br><br>
-<br><br>
 <p></p>
 <p></p>
-<br><br>
 <br><br>
 <p></p>
 ## Contribution
