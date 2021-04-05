@@ -7,5 +7,4 @@
 ## 🤔 I’m looking for help with ... Game Development and Django
 ## 💬 Ask me about ... [ ANYTHING ABOUT PROGRAMMING IN WHICH AM EXPERIENCED ]
 ## 📫 How to reach me: ...You Can Visit Site supercoders.in or Email me on supercoders.tech@gmail.com
-## 😄 Pronouns: ...
 ## ⚡ Fun fact: ... I Love Coding 
