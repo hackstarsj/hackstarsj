@@ -46,7 +46,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/supercoders"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="supercoders" /></a></p><br><br>
 <br><br>
-<br><br>
 <p></p>
 ## Profile
 
