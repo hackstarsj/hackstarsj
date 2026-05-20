@@ -96,16 +96,21 @@ Building production-grade systems, automation pipelines, and intelligent platfor
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hackstarsj&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hackstarsj&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hackstarsj&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackstarsj&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hackstarsj&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackstarsj&theme=tokyo-night&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackstarsj&theme=tokyonight" />
+</p>
+
 
 ---
 
