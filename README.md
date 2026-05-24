@@ -15,7 +15,7 @@ Building production-grade systems, automation pipelines, and intelligent platfor
 
 - 💼 **10+ Years Experience** in Full Stack Development & System Design  
 - 🧠 Strong in **Backend Architecture, APIs, Distributed Systems**
-- 🚀 Founder @ **Furthergrow Technologies**
+- 🚀 Founding Member @ **Furthergrow Technologies**
 - 🤖 Building **AI Systems, Automation Pipelines & Voice Assistants**
 - 🔌 Passionate about **IoT + Hardware + Software Integration**
 - 📊 Expert in **Data Pipelines, Analytics & Dashboards**
